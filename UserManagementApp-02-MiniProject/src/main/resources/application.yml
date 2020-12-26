@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: UserManagementApp-02-MiniProject
+ 
+  datasource:
+    name: oracle
+    data-username: system
+    data-password: Vaibhav17.
+   
+    
+   
+    
